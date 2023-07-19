@@ -1,7 +1,7 @@
-package com.empik.empik.user.controller;
+package com.empik.user.controller;
 
-import com.empik.empik.user.model.dto.UserDto;
-import com.empik.empik.user.service.UserService;
+import com.empik.user.model.dto.UserDto;
+import com.empik.user.service.UserService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;

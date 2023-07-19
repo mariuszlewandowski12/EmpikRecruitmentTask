@@ -1,4 +1,4 @@
-package com.empik.empik.user.entity;
+package com.empik.user.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

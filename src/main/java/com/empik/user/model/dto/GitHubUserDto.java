@@ -1,4 +1,4 @@
-package com.empik.empik.user.model.dto;
+package com.empik.user.model.dto;
 
 import lombok.Value;
 

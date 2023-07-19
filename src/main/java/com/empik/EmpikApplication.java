@@ -1,4 +1,4 @@
-package com.empik.empik;
+package com.empik;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
