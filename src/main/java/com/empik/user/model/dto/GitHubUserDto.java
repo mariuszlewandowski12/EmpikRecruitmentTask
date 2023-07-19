@@ -1,8 +1,10 @@
 package com.empik.user.model.dto;
 
+import lombok.Builder;
 import lombok.Value;
 
 @Value
+@Builder
 public class GitHubUserDto {
 
     private String login;
